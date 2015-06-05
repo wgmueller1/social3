@@ -17,10 +17,10 @@ app.get('/', function (req, res) {
 });
 
 var twit = new twitter({
-  consumer_key: 'HFsb54NtnARBo4v4NFP8PUOhw',
-  consumer_secret: 'I9F4yBsJGbgb701uhuHyLZvVe7ujPrrNzmnFAihWerxs39GEqN',
-  access_token_key: '14101936-Sdu7uzhMpfv0IgGWpNzU8cwiq5hNxuz2FzcrerVzp',
-  access_token_secret: 'nMRjzUR4A7YiIcOcSYmQIXYTQZasTYqL4zMYCZf1YX76w'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 });
 
 
