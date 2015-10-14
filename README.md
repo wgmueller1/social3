@@ -1,6 +1,6 @@
-# Social3
+# Realtime Word Cloud
 
-Just a simple example for Websockets support using Rickshaw + Socket.io
+When I think of predictive analytics, I think of word clouds.  When I think of realtime analytics, I think of streaming word clouds.
 
 # Usage
 
